@@ -1,0 +1,6 @@
+{
+  "name": "PlaySpace",
+  "description": "A feature-rich Play Store-like App Store featuring app downloads, offline mode, developer upload & moderation dashboard, ratings system, security payments, push notifications and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
